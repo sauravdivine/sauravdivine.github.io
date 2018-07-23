@@ -1,4 +1,4 @@
-## [Rajat Garg - Website Repository]
+## [Saurav Singh - Website Repository]
 
 
 ## Copyright and License
