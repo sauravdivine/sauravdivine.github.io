@@ -146,3 +146,47 @@ a {
 a:hover, a:focus, a:active {
   color: #1e6ce3 ;
 }
+
+.card-grid{
+  display: flex;
+  flex-wrap:wrap;
+}
+.my-card{
+  margin: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  width: 160px;
+  padding: 3px 3px;
+}
+
+.my-card-image{
+  width: 40px;
+  font-size :40px;
+  display: flex;
+  align-self: center;
+}
+
+.my-card-body{
+  width: 120px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+}
+.my-card-body-header{
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  color: #495057;
+}
+
+
