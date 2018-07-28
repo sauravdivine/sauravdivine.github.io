@@ -85,7 +85,7 @@ h2 {
   }
 
   #sideNav .rounded-rectangle{
-      border-radius: 3%;
+      border-radius: 10%;
   }
   #sideNav .navbar-collapse {
     display: flex;
